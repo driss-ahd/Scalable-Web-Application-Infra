@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This project provisions a highly available, scalable, and secure web application infrastructure on AWS using Terraform.
+This project provisions a highly available, scalable, and secure web application infrastructure using Terraform.
 
-The infrastructure follows AWS Well-Architected Framework principles and implements:
+The infrastructure follows AWS Well-Architected Framework principles:
 
 - Multi-AZ deployment for high availability
 - Auto Scaling for elasticity
