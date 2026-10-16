@@ -22,7 +22,7 @@ The infrastructure follows AWS Well-Architected Framework principles:
 
 # Architecture Diagram
 
-![Architecture Diagram](Architecture.png)
+![Architecture Diagram](architecture.png)
 
 ---
 
