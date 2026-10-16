@@ -13,7 +13,7 @@ resource "aws_lb" "alb" {
 }
 
 resource "aws_lb_target_group" "app" {
-  name     = "app-tg"
+  name     = "app-Tg"
   port     = 80
   protocol = "HTTP"
   vpc_id   = aws_vpc.main.id
