@@ -1,5 +1,5 @@
 resource "aws_security_group" "alb_sg" {
-  name   = "alb-sg"
+  name   = "alb-Sg"
   vpc_id = aws_vpc.main.id
 
   ingress {
